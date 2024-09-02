@@ -20,7 +20,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return GetMaterialApp(
       debugShowCheckedModeBanner: false,
-      // home: splashscreen(),
+
       onInit: () async {
         Get.put(CustomDrawerController());
       },
