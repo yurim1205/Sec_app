@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:get/instance_manager.dart';
-import 'package:sec_app/customer/Map/mapmain.dart';
-import 'package:sec_app/drawer_controller/drawer_controller.dart';
-import '../customer/Shop/shoplike.dart';
+import 'customer/Map/mapmain.dart';
+import 'drawer_controller/drawer_controller.dart';
+import 'customer/Shop/shoplike.dart';
 
 class homepage extends StatefulWidget {
   const homepage({Key? key}) : super(key: key);

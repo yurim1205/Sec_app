@@ -4,7 +4,7 @@ import 'package:flutter/services.dart';
 import 'package:get/get.dart';
 import 'package:get_storage/get_storage.dart';
 import 'package:google_maps_flutter/google_maps_flutter.dart';
-import 'package:sec_app/customer/search/search.dart';
+import '../search/search.dart';
 import 'package:url_launcher/url_launcher.dart';
 import '../../drawer_controller/drawer_controller.dart';
 import 'shopdata.dart' as shopdata;

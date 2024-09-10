@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:sec_app/customer/Shop/shopmain.dart';
+import '../Shop/shopmain.dart';
 import '../Map/mapmain.dart';
 import 'listappbar.dart';
 

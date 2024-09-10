@@ -1,11 +1,10 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:get_storage/get_storage.dart';
-import 'package:sec_app/customer/Map/mapmain.dart';
-
-import 'Material/splash_screen.dart';
-import 'customer/search/search.dart';
-import 'drawer_controller/drawer_controller.dart';
+import 'src/customer/Map/mapmain.dart';
+import 'src/Material/splash_screen.dart';
+import 'src/customer/search/search.dart';
+import 'src/drawer_controller/drawer_controller.dart';
 
 void main() async {
   await GetStorage.init();
